@@ -4247,5 +4247,12 @@
     "source": "Wikipedia: Jet (brand)",
     "company": "Jet",
     "normalizedName": "jet"
+  },
+  {
+    "name": "Varta",
+    "description": "Varta A. G. est une entreprise et une marque de piles électriques, de batteries d'accumulateurs et de chargeurs appartenant au groupe américain Spectrum Brands.",
+    "source": "Wikipedia: Varta",
+    "company": "Spectrum Brands",
+    "normalizedName": "varta"
   }
 ]
