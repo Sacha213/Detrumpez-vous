@@ -3115,10 +3115,1137 @@
     "normalizedName": "pelletier"
   },
   {
-    "name": "Vandame",
+    "name": "Vandamme",
     "description": "Marque LU, aujourd’hui dans le portefeuille Mondelez.",
     "source": "Wikipedia: Mondelez International",
     "company": "Mondelez",
-    "normalizedName": "vandame"
+    "normalizedName": "vandamme"
+  },
+  {
+    "name": "Dr Pepper",
+    "description": "Marque américaine de boisson gazeuse, reconnue pour son goût unique et son héritage historique aux USA.",
+    "source": "Wikipedia: Dr Pepper Snapple Group",
+    "company": "Dr Pepper Snapple Group",
+    "normalizedName": "dr_pepper"
+  },
+  {
+    "name": "Frito-Lay",
+    "description": "Entreprise américaine leader dans le secteur du snack, responsable de nombreuses marques de chips populaires.",
+    "source": "Wikipedia: Frito-Lay",
+    "company": "Frito-Lay",
+    "normalizedName": "frito_lay"
+  },
+  {
+    "name": "Campbell’s",
+    "description": "Marque historique américaine de soupes, symbole des traditions culinaires et industrielles des USA.",
+    "source": "Wikipedia: Campbell Soup Company",
+    "company": "Campbell Soup Company",
+    "normalizedName": "campbells"
+  },
+  {
+    "name": "Amazon",
+    "description": "Géant américain du commerce en ligne et pionnier dans plusieurs secteurs technologiques.",
+    "source": "Wikipedia: Amazon (company)",
+    "company": "Amazon",
+    "normalizedName": "amazon"
+  },
+  {
+    "name": "Antikal",
+    "description": "Détergent détenue par Procter & Gamble, entreprise américaine.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "antikal"
+  },
+  {
+    "name": "Doliprane",
+    "description": "Marque pharmaceutique française, revendue à un fonds d’investissement américain en 2024.",
+    "source": "Wikipedia: Doliprane",
+    "company": "Fonds d’investissement américain",
+    "normalizedName": "doliprane"
+  },
+  {
+    "name": "Energizer",
+    "description": "Marque américaine de piles et produits énergétiques, reconnue mondialement.",
+    "source": "Wikipedia: Energizer",
+    "company": "Energizer Holdings",
+    "normalizedName": "energizer"
+  },
+  {
+    "name": "Google",
+    "description": "Entreprise technologique américaine, leader mondial de la recherche en ligne.",
+    "source": "Wikipedia: Google",
+    "company": "Alphabet Inc.",
+    "normalizedName": "google"
+  },
+  {
+    "name": "Head and shoulders",
+    "description": "Marque américaine de shampooing anti-pelliculaire appartenant à Procter & Gamble.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "head_and_shoulders"
+  },
+  {
+    "name": "Johnson and Johnson (groupe)",
+    "description": "Groupe américain majeur dans les soins de santé et produits de consommation.",
+    "source": "Wikipedia: Johnson & Johnson",
+    "company": "Johnson & Johnson",
+    "normalizedName": "johnson_and_johnson"
+  },
+  {
+    "name": "KKR (groupe)",
+    "description": "Groupe d'investissement américain de renommée mondiale.",
+    "source": "Wikipedia: Kohlberg Kravis Roberts",
+    "company": "KKR",
+    "normalizedName": "kkr"
+  },
+  {
+    "name": "kleenex",
+    "description": "Marque américaine de mouchoirs en papier développée par Kimberly-Clark.",
+    "source": "Wikipedia: Kimberly-Clark",
+    "company": "Kimberly-Clark",
+    "normalizedName": "kleenex"
+  },
+  {
+    "name": "Monsieur Propre",
+    "description": "Marque de produits de nettoyage américaine, adaptée du nom 'Mr. Clean' de Procter & Gamble.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "monsieur_propre"
+  },
+  {
+    "name": "New balance",
+    "description": "Marque américaine de chaussures, reconnue pour sa qualité et son design fonctionnel.",
+    "source": "Wikipedia: New Balance",
+    "company": "New Balance",
+    "normalizedName": "new_balance"
+  },
+  {
+    "name": "Procter and gamble (groupe)",
+    "description": "Groupe américain leader dans les produits de consommation, derrière de nombreuses marques iconiques.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "procter_and_gamble"
+  },
+  {
+    "name": "Starbucks",
+    "description": "Chaîne américaine de cafés, symbole du style de vie et de la culture américaine.",
+    "source": "Wikipedia: Starbucks",
+    "company": "Starbucks Corporation",
+    "normalizedName": "starbucks"
+  },
+  {
+    "name": "Swiffer",
+    "description": "Marque américaine de produits de nettoyage innovants, développée par Procter & Gamble.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "swiffer"
+  },
+  {
+    "name": "Waze",
+    "description": "Application de navigation développée en Israël, non américaine.",
+    "source": "Wikipedia: Waze",
+    "company": "Google",
+    "normalizedName": "waze"
+  },
+  {
+    "name": "Wilkinson",
+    "description": "Fondée en 1772 par Henry Nock et d'origine britannique, cette entreprise appartient aujourd'hui au groupe américain Edgewell Personal Care.",
+    "source": "Wikipedia: Wilkinson Sword",
+    "company": "Edgewell Personal Care",
+    "normalizedName": "wilkinson"
+  },
+  {
+    "name": "Burger King",
+    "description": "Chaîne américaine de restauration rapide, emblématique du fast-food aux USA.",
+    "source": "Wikipedia: Burger King",
+    "company": "Burger King Worldwide",
+    "normalizedName": "burger_king"
+  },
+  {
+    "name": "KFC",
+    "description": "Chaîne américaine de restauration rapide spécialisée dans le poulet frit.",
+    "source": "Wikipedia: KFC",
+    "company": "Yum! Brands",
+    "normalizedName": "kfc"
+  },
+  {
+    "name": "Pizza Hut",
+    "description": "Chaîne américaine de restauration rapide de pizzas, reconnue mondialement.",
+    "source": "Wikipedia: Pizza Hut",
+    "company": "Yum! Brands",
+    "normalizedName": "pizza_hut"
+  },
+  {
+    "name": "Taco Bell",
+    "description": "Chaîne américaine de restauration rapide proposant des spécialités Tex-Mex.",
+    "source": "Wikipedia: Taco Bell",
+    "company": "Yum! Brands",
+    "normalizedName": "taco_bell"
+  },
+  {
+    "name": "Subway",
+    "description": "Chaîne américaine de restauration rapide, célèbre pour ses sandwichs sur mesure.",
+    "source": "Wikipedia: Subway (restaurant)",
+    "company": "Doctor's Associates Inc.",
+    "normalizedName": "subway"
+  },
+  {
+    "name": "Wendy’s",
+    "description": "Chaîne américaine de restauration rapide, reconnue pour la qualité de ses burgers.",
+    "source": "Wikipedia: Wendy's",
+    "company": "Wendy's Company",
+    "normalizedName": "wendys"
+  },
+  {
+    "name": "Five Guys",
+    "description": "Chaîne américaine de restauration rapide, célèbre pour ses hamburgers sur mesure.",
+    "source": "Wikipedia: Five Guys",
+    "company": "Five Guys Enterprises",
+    "normalizedName": "five_guys"
+  },
+  {
+    "name": "Krispy Kreme",
+    "description": "Marque américaine de beignets, connue pour ses recettes légendaires et son tube en chocolat.",
+    "source": "Wikipedia: Krispy Kreme",
+    "company": "Krispy Kreme, Inc.",
+    "normalizedName": "krispy_kreme"
+  },
+  {
+    "name": "Nike",
+    "description": "Marque américaine de sport, symbole d'innovation et de performance dans l'univers sportif.",
+    "source": "Wikipedia: Nike, Inc.",
+    "company": "Nike, Inc.",
+    "normalizedName": "nike"
+  },
+  {
+    "name": "Reebok",
+    "description": "Marque de sport d'origine américaine, reconnue mondialement pour ses innovations en matière d'athlétisme.",
+    "source": "Wikipedia: Reebok",
+    "company": "Reebok International",
+    "normalizedName": "reebok"
+  },
+  {
+    "name": "Skechers",
+    "description": "Marque américaine de chaussures, appréciée pour son confort et son style décontracté.",
+    "source": "Wikipedia: Skechers",
+    "company": "Skechers USA, Inc.",
+    "normalizedName": "skechers"
+  },
+  {
+    "name": "Vans",
+    "description": "Marque américaine de chaussures et vêtements décontractés, connue dans la culture skate.",
+    "source": "Wikipedia: Vans (company)",
+    "company": "VF Corporation",
+    "normalizedName": "vans"
+  },
+  {
+    "name": "Converse",
+    "description": "Marque américaine iconique de chaussures, célèbre pour ses modèles Chuck Taylor.",
+    "source": "Wikipedia: Converse",
+    "company": "Nike, Inc.",
+    "normalizedName": "converse"
+  },
+  {
+    "name": "Timberland",
+    "description": "Marque américaine de vêtements et chaussures, renommée pour ses bottes robustes.",
+    "source": "Wikipedia: Timberland",
+    "company": "VF Corporation",
+    "normalizedName": "timberland"
+  },
+  {
+    "name": "Carhartt",
+    "description": "Marque américaine d'habillement de travail, symbole de robustesse et authenticité.",
+    "source": "Wikipedia: Carhartt",
+    "company": "Carhartt, Inc.",
+    "normalizedName": "carhartt"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Marque américaine de mode, reconnue pour son style preppy et ses collections internationales.",
+    "source": "Wikipedia: Tommy Hilfiger",
+    "company": "PVH Corp.",
+    "normalizedName": "tommy_hilfiger"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Marque américaine de mode, symbole d'élégance et de luxe à l'américaine.",
+    "source": "Wikipedia: Ralph Lauren",
+    "company": "Ralph Lauren Corporation",
+    "normalizedName": "ralph_lauren"
+  },
+  {
+    "name": "Calvin Klein",
+    "description": "Marque américaine de mode et parfumerie, renommée mondialement pour son design minimaliste.",
+    "source": "Wikipedia: Calvin Klein",
+    "company": "PVH Corp.",
+    "normalizedName": "calvin_klein"
+  },
+  {
+    "name": "Victoria’s Secret",
+    "description": "Marque américaine de lingerie, célèbre pour ses défilés et ses campagnes marketing.",
+    "source": "Wikipedia: Victoria's Secret",
+    "company": "L Brands",
+    "normalizedName": "victorias_secret"
+  },
+  {
+    "name": "Estée Lauder",
+    "description": "Groupe américain de cosmétiques, symbolisant l'excellence en soins de la peau et parfumerie.",
+    "source": "Wikipedia: Estée Lauder Companies",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "estee_lauder"
+  },
+  {
+    "name": "Clinique",
+    "description": "Marque américaine de soins de la peau, connue pour ses produits hypoallergéniques et testés dermatologiquement.",
+    "source": "Wikipedia: Clinique",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "clinique"
+  },
+  {
+    "name": "CoverGirl",
+    "description": "Marque américaine de maquillage, symbole de l'accessibilité et de l'innovation dans l'industrie cosmétique.",
+    "source": "Wikipedia: CoverGirl",
+    "company": "Coty Inc.",
+    "normalizedName": "covergirl"
+  },
+  {
+    "name": "Revlon",
+    "description": "Entreprise américaine de cosmétiques, pionnière dans l'industrie de la beauté.",
+    "source": "Wikipedia: Revlon",
+    "company": "Revlon, Inc.",
+    "normalizedName": "revlon"
+  },
+  {
+    "name": "Bath & Body Works",
+    "description": "Chaîne américaine de soins corporels et parfumerie, reconnue pour ses innovations en bien-être.",
+    "source": "Wikipedia: Bath & Body Works",
+    "company": "L Brands",
+    "normalizedName": "bath_&_body_works"
+  },
+  {
+    "name": "Mountain Dew",
+    "description": "Soda américain iconique, symbole de la culture pop et des boissons gazeuses aux USA.",
+    "source": "Wikipedia: Mountain Dew",
+    "company": "PepsiCo",
+    "normalizedName": "mountain_dew"
+  },
+  {
+    "name": "Snapple",
+    "description": "Marque américaine de thé et jus de fruits, reconnue pour ses boissons rafraîchissantes et ses anecdotes marketing.",
+    "source": "Wikipedia: Snapple",
+    "company": "Triarc Companies, Inc.",
+    "normalizedName": "snapple"
+  },
+  {
+    "name": "Arizona (Ice Tea)",
+    "description": "Marque américaine de boissons glacées, célèbre pour ses grands formats et ses graphiques distinctifs.",
+    "source": "Wikipedia: Arizona Beverage Company",
+    "company": "Arizona Beverage Company",
+    "normalizedName": "arizona_ice_tea"
+  },
+  {
+    "name": "Apple",
+    "description": "Entreprise technologique américaine, leader mondial dans l'innovation et l'électronique grand public.",
+    "source": "Wikipedia: Apple Inc.",
+    "company": "Apple Inc.",
+    "normalizedName": "apple"
+  },
+  {
+    "name": "Microsoft",
+    "description": "Entreprise américaine de software et services, pionnière dans l'informatique personnelle et le cloud.",
+    "source": "Wikipedia: Microsoft",
+    "company": "Microsoft Corporation",
+    "normalizedName": "microsoft"
+  },
+  {
+    "name": "Facebook",
+    "description": "Réseau social américain, désormais Meta, avec une influence mondiale indéniable.",
+    "source": "Wikipedia: Facebook",
+    "company": "Meta Platforms",
+    "normalizedName": "facebook"
+  },
+  {
+    "name": "Instagram",
+    "description": "Plateforme sociale de partage d'images, propriété de Facebook (Meta) et emblématique de la culture numérique américaine.",
+    "source": "Wikipedia: Instagram",
+    "company": "Meta Platforms",
+    "normalizedName": "instagram"
+  },
+  {
+    "name": "Twitter",
+    "description": "Réseau social américain connu pour ses messages courts et son impact sur la communication mondiale.",
+    "source": "Wikipedia: Twitter",
+    "company": "Twitter, Inc.",
+    "normalizedName": "twitter"
+  },
+  {
+    "name": "YouTube",
+    "description": "Plateforme américaine de partage de vidéos, détenue par Google et leader mondial dans son domaine.",
+    "source": "Wikipedia: YouTube",
+    "company": "Alphabet Inc.",
+    "normalizedName": "youtube"
+  },
+  {
+    "name": "Netflix",
+    "description": "Plateforme américaine de streaming vidéo, révolutionnant l'industrie du divertissement.",
+    "source": "Wikipedia: Netflix",
+    "company": "Netflix, Inc.",
+    "normalizedName": "netflix"
+  },
+  {
+    "name": "eBay",
+    "description": "Plateforme américaine de commerce en ligne, pionnière des enchères internet.",
+    "source": "Wikipedia: eBay",
+    "company": "eBay Inc.",
+    "normalizedName": "ebay"
+  },
+  {
+    "name": "PayPal",
+    "description": "Plateforme américaine de paiement en ligne, symbole de l'innovation fintech.",
+    "source": "Wikipedia: PayPal",
+    "company": "PayPal Holdings, Inc.",
+    "normalizedName": "paypal"
+  },
+  {
+    "name": "Tesla",
+    "description": "Entreprise américaine de véhicules électriques, pionnière dans l'innovation automobile et énergétique.",
+    "source": "Wikipedia: Tesla, Inc.",
+    "company": "Tesla, Inc.",
+    "normalizedName": "tesla"
+  },
+  {
+    "name": "Ford",
+    "description": "Constructeur automobile emblématique des USA, symbole de l'industrie automobile américaine.",
+    "source": "Wikipedia: Ford Motor Company",
+    "company": "Ford Motor Company",
+    "normalizedName": "ford"
+  },
+  {
+    "name": "Chevrolet",
+    "description": "Marque automobile américaine, partie intégrante de General Motors, symbole de performance et de durabilité.",
+    "source": "Wikipedia: Chevrolet",
+    "company": "General Motors",
+    "normalizedName": "chevrolet"
+  },
+  {
+    "name": "ExxonMobil",
+    "description": "Géant américain de l'énergie, acteur majeur dans le secteur pétrolier et gazier.",
+    "source": "Wikipedia: ExxonMobil",
+    "company": "ExxonMobil",
+    "normalizedName": "exxonmobil"
+  },
+  {
+    "name": "Chevron",
+    "description": "Entreprise énergétique américaine, reconnue pour ses opérations mondiales et son influence économique.",
+    "source": "Wikipedia: Chevron Corporation",
+    "company": "Chevron Corporation",
+    "normalizedName": "chevron"
+  },
+  {
+    "name": "Texaco",
+    "description": "Ancienne marque américaine d'énergie, aujourd'hui intégrée à Chevron, symbole de l'histoire pétrolière aux USA.",
+    "source": "Wikipedia: Texaco",
+    "company": "Chevron Corporation",
+    "normalizedName": "texaco"
+  },
+  {
+    "name": "Esso",
+    "description": "Marque historique américaine d'essence, aujourd'hui propriété de ExxonMobil.",
+    "source": "Wikipedia: ExxonMobil",
+    "company": "ExxonMobil",
+    "normalizedName": "esso"
+  },
+  {
+    "name": "Visa",
+    "description": "Entreprise américaine de services financiers, leader mondial des paiements électroniques.",
+    "source": "Wikipedia: Visa Inc.",
+    "company": "Visa Inc.",
+    "normalizedName": "visa"
+  },
+  {
+    "name": "Mastercard",
+    "description": "Entreprise américaine de technologies de paiement, facilitant les transactions à l'échelle mondiale.",
+    "source": "Wikipedia: Mastercard",
+    "company": "Mastercard Incorporated",
+    "normalizedName": "mastercard"
+  },
+  {
+    "name": "American Express",
+    "description": "Institution financière américaine renommée pour ses services de cartes de crédit premium.",
+    "source": "Wikipedia: American Express",
+    "company": "American Express",
+    "normalizedName": "american_express"
+  },
+  {
+    "name": "Goldman Sachs",
+    "description": "Banque d'investissement américaine de premier plan, symbole de la finance aux USA.",
+    "source": "Wikipedia: Goldman Sachs",
+    "company": "Goldman Sachs Group, Inc.",
+    "normalizedName": "goldman_sachs"
+  },
+  {
+    "name": "Bank of America",
+    "description": "Grande banque américaine, acteur majeur du secteur financier aux USA.",
+    "source": "Wikipedia: Bank of America",
+    "company": "Bank of America",
+    "normalizedName": "bank_of_america"
+  },
+  {
+    "name": "Marlboro (tabac)",
+    "description": "Marque américaine de tabac, emblématique et reconnaissable dans le monde entier.",
+    "source": "Wikipedia: Marlboro",
+    "company": "Altria Group",
+    "normalizedName": "marlboro"
+  },
+  {
+    "name": "John Deere (machinerie agricole)",
+    "description": "Entreprise américaine de machinerie agricole, référence mondiale dans son secteur.",
+    "source": "Wikipedia: John Deere",
+    "company": "Deere & Company",
+    "normalizedName": "john_deere"
+  },
+  {
+    "name": "AT&T",
+    "description": "Entreprise américaine de télécommunications, leader en services de communication.",
+    "source": "Wikipedia: AT&T",
+    "company": "AT&T Inc.",
+    "normalizedName": "att"
+  },
+  {
+    "name": "Verizon (télécommunications)",
+    "description": "Fournisseur américain de services de télécommunication, symbole de l'innovation en réseaux aux USA.",
+    "source": "Wikipedia: Verizon Communications",
+    "company": "Verizon Communications",
+    "normalizedName": "verizon"
+  },
+  {
+    "name": "Marvel",
+    "description": "Entreprise américaine de divertissement et de comics, influençant la culture populaire mondiale.",
+    "source": "Wikipedia: Marvel Comics",
+    "company": "Marvel Entertainment",
+    "normalizedName": "marvel"
+  },
+  {
+    "name": "McDonald's",
+    "description": "Chaîne de restauration rapide américaine emblématique, symbole de la culture fast-food aux USA.",
+    "source": "Wikipedia: McDonald's",
+    "company": "McDonald's Corporation",
+    "normalizedName": "mcdonalds"
+  },
+  {
+    "name": "Domino's",
+    "description": "Chaîne américaine de pizzas, reconnue pour ses innovations dans la livraison rapide.",
+    "source": "Wikipedia: Domino's",
+    "company": "Domino's Pizza, Inc.",
+    "normalizedName": "dominos"
+  },
+  {
+    "name": "Dunkin'",
+    "description": "Chaîne américaine célèbre pour ses beignets et son café, illustrant la culture du petit-déjeuner aux USA.",
+    "source": "Wikipedia: Dunkin'",
+    "company": "Dunkin' Brands",
+    "normalizedName": "dunkin"
+  },
+  {
+    "name": "Under Armour",
+    "description": "Marque américaine de vêtements de sport, symbole d'innovation et de performance.",
+    "source": "Wikipedia: Under Armour",
+    "company": "Under Armour, Inc.",
+    "normalizedName": "under_armour"
+  },
+  {
+    "name": "Levi's",
+    "description": "Marque américaine emblématique de jeans, symbole du style et de la culture des USA.",
+    "source": "Wikipedia: Levi Strauss & Co.",
+    "company": "Levi Strauss & Co.",
+    "normalizedName": "levis"
+  },
+  {
+    "name": "The North Face",
+    "description": "Marque américaine d'équipement de plein air, reconnue pour ses innovations en matière de vêtements et accessoires.",
+    "source": "Wikipedia: The North Face",
+    "company": "VF Corporation",
+    "normalizedName": "the_north_face"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Marque américaine de vêtements, célèbre pour son style casual et son image de marque distinctive.",
+    "source": "Wikipedia: Abercrombie & Fitch",
+    "company": "Abercrombie & Fitch",
+    "normalizedName": "abercrombie_&_fitch"
+  },
+  {
+    "name": "Guess",
+    "description": "Marque américaine de mode, connue pour son style audacieux et ses campagnes publicitaires emblématiques.",
+    "source": "Wikipedia: Guess (company)",
+    "company": "Guess?, Inc.",
+    "normalizedName": "guess"
+  },
+  {
+    "name": "Wrangler",
+    "description": "Marque américaine de jeans, symbole de l'authenticité et de la culture du denim aux USA.",
+    "source": "Wikipedia: Wrangler (jeans)",
+    "company": "Kontoor Brands",
+    "normalizedName": "wrangler"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Marque américaine de mode de luxe, reconnue pour ses accessoires et vêtements élégants.",
+    "source": "Wikipedia: Michael Kors",
+    "company": "Capri Holdings",
+    "normalizedName": "michael_kors"
+  },
+  {
+    "name": "Lee",
+    "description": "Marque américaine de vêtements, connue pour ses jeans et son style décontracté.",
+    "source": "Wikipedia: Lee (jeans)",
+    "company": "Kontoor Brands",
+    "normalizedName": "lee"
+  },
+  {
+    "name": "TK Maxx",
+    "description": "Marque de retail d'origine américaine, spécialisée dans la vente de produits de grandes marques à prix réduits.",
+    "source": "Wikipedia: TJX Companies",
+    "company": "TJX Companies",
+    "normalizedName": "tk_maxx"
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Marque américaine de mode de luxe, réputée pour ses créations élégantes et sophistiquées.",
+    "source": "Wikipedia: Oscar de la Renta",
+    "company": "Oscar de la Renta LLC",
+    "normalizedName": "oscar_de_la_renta"
+  },
+  {
+    "name": "Champion",
+    "description": "Marque américaine de vêtements de sport, symbole de l'innovation dans le casual et le sportwear.",
+    "source": "Wikipedia: Champion (sportswear)",
+    "company": "Hanesbrands",
+    "normalizedName": "champion"
+  },
+  {
+    "name": "Fossil",
+    "description": "Marque américaine d'accessoires et montres, reconnue pour son design rétro et innovant.",
+    "source": "Wikipedia: Fossil Group",
+    "company": "Fossil Group",
+    "normalizedName": "fossil"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Marque américaine de vêtements, ciblant principalement les jeunes adultes avec un style décontracté.",
+    "source": "Wikipedia: American Eagle Outfitters",
+    "company": "American Eagle Outfitters, Inc.",
+    "normalizedName": "american_eagle_outfitters"
+  },
+  {
+    "name": "Coach",
+    "description": "Marque américaine d'accessoires de mode et maroquinerie, symbole de luxe et de qualité.",
+    "source": "Wikipedia: Coach Inc.",
+    "company": "Tapestry, Inc.",
+    "normalizedName": "coach"
+  },
+  {
+    "name": "Tory Burch",
+    "description": "Marque américaine de mode, connue pour ses designs élégants et colorés.",
+    "source": "Wikipedia: Tory Burch",
+    "company": "Tory Burch LLC",
+    "normalizedName": "tory_burch"
+  },
+  {
+    "name": "DKNY",
+    "description": "Marque américaine de mode, symbole du style new-yorkais contemporain.",
+    "source": "Wikipedia: DKNY",
+    "company": "G-III Apparel Group",
+    "normalizedName": "dkny"
+  },
+  {
+    "name": "Stuart Weitzman",
+    "description": "Marque américaine de chaussures de luxe, reconnue pour ses designs élégants.",
+    "source": "Wikipedia: Stuart Weitzman",
+    "company": "Stuart Weitzman, LLC",
+    "normalizedName": "stuart_weitzman"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Marque américaine de mode et accessoires, symbole d'un design frais et coloré.",
+    "source": "Wikipedia: Kate Spade",
+    "company": "Kate Spade & Company",
+    "normalizedName": "kate_spade"
+  },
+  {
+    "name": "MAC",
+    "description": "Marque américaine de maquillage professionnelle, reconnue pour sa qualité et son innovation.",
+    "source": "Wikipedia: MAC Cosmetics",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "mac"
+  },
+  {
+    "name": "Bobbi Brown",
+    "description": "Marque américaine de cosmétiques, axée sur la beauté naturelle et l'expertise dermocosmétique.",
+    "source": "Wikipedia: Bobbi Brown Cosmetics",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "bobbi_brown"
+  },
+  {
+    "name": "Aveda",
+    "description": "Marque américaine de soins capillaires et de beauté, reconnue pour ses produits naturels et innovants.",
+    "source": "Wikipedia: Aveda",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "aveda"
+  },
+  {
+    "name": "Tom Ford",
+    "description": "Marque américaine de luxe dans le domaine de la mode et des cosmétiques, symbolisant l'élégance contemporaine.",
+    "source": "Wikipedia: Tom Ford",
+    "company": "Tom Ford International",
+    "normalizedName": "tom_ford"
+  },
+  {
+    "name": "Sally Hansen",
+    "description": "Marque américaine de soins des ongles et beauté, leader sur le marché des produits de manucure.",
+    "source": "Wikipedia: Sally Hansen",
+    "company": "Sally Hansen, Inc.",
+    "normalizedName": "sally_hansen"
+  },
+  {
+    "name": "Max Factor",
+    "description": "Marque américaine de cosmétiques, pionnière dans l'innovation maquillage pour le cinéma et le grand public.",
+    "source": "Wikipedia: Max Factor",
+    "company": "Coty Inc.",
+    "normalizedName": "max_factor"
+  },
+  {
+    "name": "La Mer",
+    "description": "Marque américaine de soins de la peau de luxe, renommée pour sa Crème de la Mer et ses formulations innovantes.",
+    "source": "Wikipedia: La Mer",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "la_mer"
+  },
+  {
+    "name": "Marc Jacobs",
+    "description": "Marque américaine de mode et accessoires, symbolisant l'innovation et le style contemporain.",
+    "source": "Wikipedia: Marc Jacobs",
+    "company": "Marc Jacobs International",
+    "normalizedName": "marc_jacobs"
+  },
+  {
+    "name": "e.l.f.",
+    "description": "Marque américaine de cosmétiques abordables, reconnue pour sa qualité et son innovation sans compromis.",
+    "source": "Wikipedia: e.l.f. Cosmetics",
+    "company": "e.l.f. Beauty, Inc.",
+    "normalizedName": "elf"
+  },
+  {
+    "name": "Jo Malone",
+    "description": "Marque de parfums et soins, d'origine britannique, et non considérée comme américaine.",
+    "source": "Wikipedia: Jo Malone London",
+    "company": "Estée Lauder Companies",
+    "normalizedName": "jo_malone"
+  },
+  {
+    "name": "Elizabeth Arden",
+    "description": "Marque américaine de cosmétiques et soins de la peau, connue pour son héritage et son innovation.",
+    "source": "Wikipedia: Elizabeth Arden",
+    "company": "Elizabeth Arden, Inc.",
+    "normalizedName": "elizabeth_arden"
+  },
+  {
+    "name": "Rimmel",
+    "description": "Marque de cosmétiques d'origine britannique, non américaine.",
+    "source": "Wikipedia: Rimmel London",
+    "company": "Coty Inc.",
+    "normalizedName": "rimmel"
+  },
+  {
+    "name": "Intel",
+    "description": "Entreprise américaine de semi-conducteurs, leader mondial dans l'innovation technologique.",
+    "source": "Wikipedia: Intel",
+    "company": "Intel Corporation",
+    "normalizedName": "intel"
+  },
+  {
+    "name": "AMD",
+    "description": "Entreprise américaine de technologie, reconnue pour ses processeurs et cartes graphiques.",
+    "source": "Wikipedia: AMD",
+    "company": "Advanced Micro Devices, Inc.",
+    "normalizedName": "amd"
+  },
+  {
+    "name": "ATI Radeon",
+    "description": "Marque de cartes graphiques américaine, désormais intégrée à AMD, symbole d'innovation en technologie.",
+    "source": "Wikipedia: ATI Technologies",
+    "company": "Advanced Micro Devices, Inc.",
+    "normalizedName": "ati_radeon"
+  },
+  {
+    "name": "Dell",
+    "description": "Entreprise américaine d'informatique, reconnue pour ses ordinateurs et solutions technologiques.",
+    "source": "Wikipedia: Dell",
+    "company": "Dell Technologies",
+    "normalizedName": "dell"
+  },
+  {
+    "name": "Nvidia",
+    "description": "Entreprise américaine spécialisée dans les processeurs graphiques, leader mondial en technologie visuelle.",
+    "source": "Wikipedia: Nvidia",
+    "company": "Nvidia Corporation",
+    "normalizedName": "nvidia"
+  },
+  {
+    "name": "HP",
+    "description": "Entreprise américaine de technologie, connue pour ses solutions d'impression, d'informatique et de services.",
+    "source": "Wikipedia: HP Inc.",
+    "company": "HP Inc.",
+    "normalizedName": "hp"
+  },
+  {
+    "name": "Disney+",
+    "description": "Service de streaming américain, filiale de The Walt Disney Company.",
+    "source": "Wikipedia: Disney+",
+    "company": "The Walt Disney Company",
+    "normalizedName": "disney_plus"
+  },
+  {
+    "name": "Adobe",
+    "description": "Entreprise américaine de logiciels, célèbre pour ses solutions créatives.",
+    "source": "Wikipedia: Adobe Inc.",
+    "company": "Adobe Inc.",
+    "normalizedName": "adobe"
+  },
+  {
+    "name": "Sonos",
+    "description": "Entreprise américaine spécialisée dans les systèmes audio sans fil.",
+    "source": "Wikipedia: Sonos",
+    "company": "Sonos, Inc.",
+    "normalizedName": "sonos"
+  },
+  {
+    "name": "Airbnb",
+    "description": "Plateforme américaine de location de logements, symbole de l'innovation dans l'économie collaborative.",
+    "source": "Wikipedia: Airbnb",
+    "company": "Airbnb, Inc.",
+    "normalizedName": "airbnb"
+  },
+  {
+    "name": "Snapchat",
+    "description": "Application américaine de messagerie et partage de photos, influente dans la culture numérique.",
+    "source": "Wikipedia: Snapchat",
+    "company": "Snap Inc.",
+    "normalizedName": "snapchat"
+  },
+  {
+    "name": "Fitbit",
+    "description": "Entreprise américaine spécialisée dans les dispositifs de suivi d'activité et santé.",
+    "source": "Wikipedia: Fitbit",
+    "company": "Fitbit, Inc.",
+    "normalizedName": "fitbit"
+  },
+  {
+    "name": "GoPro",
+    "description": "Entreprise américaine célèbre pour ses caméras d'action, symbole d'innovation pour les activités outdoor.",
+    "source": "Wikipedia: GoPro",
+    "company": "GoPro, Inc.",
+    "normalizedName": "gopro"
+  },
+  {
+    "name": "Activision",
+    "description": "Entreprise américaine de jeux vidéo, leader dans l'industrie du divertissement interactif.",
+    "source": "Wikipedia: Activision",
+    "company": "Activision Blizzard",
+    "normalizedName": "activision"
+  },
+  {
+    "name": "Uber",
+    "description": "Entreprise américaine de mobilité, révolutionnant la façon dont les gens se déplacent en ville.",
+    "source": "Wikipedia: Uber",
+    "company": "Uber Technologies, Inc.",
+    "normalizedName": "uber"
+  },
+  {
+    "name": "Garmin",
+    "description": "Entreprise américaine d'électronique grand public, spécialisée dans les dispositifs GPS.",
+    "source": "Wikipedia: Garmin",
+    "company": "Garmin Ltd.",
+    "normalizedName": "garmin"
+  },
+  {
+    "name": "EA (Electronic Arts)",
+    "description": "Entreprise américaine de jeux vidéo, connue pour ses franchises populaires et son innovation numérique.",
+    "source": "Wikipedia: Electronic Arts",
+    "company": "Electronic Arts",
+    "normalizedName": "ea"
+  },
+  {
+    "name": "Bose",
+    "description": "Entreprise américaine spécialisée dans l'audio, reconnue pour ses innovations et la qualité de ses produits.",
+    "source": "Wikipedia: Bose Corporation",
+    "company": "Bose Corporation",
+    "normalizedName": "bose"
+  },
+  {
+    "name": "Western Digital",
+    "description": "Entreprise américaine de stockage de données, leader dans le domaine des disques durs et SSD.",
+    "source": "Wikipedia: Western Digital",
+    "company": "Western Digital Corporation",
+    "normalizedName": "western_digital"
+  },
+  {
+    "name": "Seagate",
+    "description": "Entreprise américaine de solutions de stockage, reconnue mondialement pour ses innovations technologiques.",
+    "source": "Wikipedia: Seagate Technology",
+    "company": "Seagate Technology",
+    "normalizedName": "seagate"
+  },
+  {
+    "name": "Ring",
+    "description": "Entreprise américaine spécialisée dans la sécurité connectée, notamment avec ses sonnettes vidéo.",
+    "source": "Wikipedia: Ring (company)",
+    "company": "Amazon",
+    "normalizedName": "ring"
+  },
+  {
+    "name": "Netgear",
+    "description": "Entreprise américaine de solutions réseau, reconnue pour sa fiabilité et ses innovations technologiques.",
+    "source": "Wikipedia: Netgear",
+    "company": "Netgear, Inc.",
+    "normalizedName": "netgear"
+  },
+  {
+    "name": "Ubiquiti",
+    "description": "Entreprise américaine spécialisée dans les technologies réseau sans fil, leader dans son secteur.",
+    "source": "Wikipedia: Ubiquiti Inc.",
+    "company": "Ubiquiti Inc.",
+    "normalizedName": "ubiquiti"
+  },
+  {
+    "name": "Texas Instruments",
+    "description": "Entreprise américaine de semi-conducteurs, pionnière dans l'innovation technologique et l'éducation en électronique.",
+    "source": "Wikipedia: Texas Instruments",
+    "company": "Texas Instruments Incorporated",
+    "normalizedName": "texas_instruments"
+  },
+  {
+    "name": "Whirlpool",
+    "description": "Entreprise américaine d'électroménager, leader mondial dans son secteur.",
+    "source": "Wikipedia: Whirlpool Corporation",
+    "company": "Whirlpool Corporation",
+    "normalizedName": "whirlpool"
+  },
+  {
+    "name": "Kraft",
+    "description": "Entreprise américaine dans le secteur alimentaire, reconnue pour ses innovations en produits transformés.",
+    "source": "Wikipedia: Kraft Foods Group",
+    "company": "Kraft Foods Group",
+    "normalizedName": "kraft"
+  },
+  {
+    "name": "Mondelez",
+    "description": "Groupe alimentaire américain, résultat de nombreuses acquisitions stratégiques dans le monde.",
+    "source": "Wikipedia: Mondelez International",
+    "company": "Mondelez International",
+    "normalizedName": "mondelez"
+  },
+  {
+    "name": "Kellogg's",
+    "description": "Entreprise américaine de céréales et produits alimentaires, symbole des petits déjeuners américains.",
+    "source": "Wikipedia: Kellogg's",
+    "company": "Kellogg's",
+    "normalizedName": "kelloggs"
+  },
+  {
+    "name": "Uncle Ben's",
+    "description": "Marque américaine de riz et produits alimentaires, symbole de l'innovation dans le secteur agroalimentaire.",
+    "source": "Wikipedia: Uncle Ben's",
+    "company": "Mars",
+    "normalizedName": "uncle_bens"
+  },
+  {
+    "name": "Dole",
+    "description": "Entreprise américaine dans le secteur agroalimentaire, reconnue pour ses fruits et légumes.",
+    "source": "Wikipedia: Dole Food Company",
+    "company": "Dole Food Company",
+    "normalizedName": "dole"
+  },
+  {
+    "name": "Mezzo Mix",
+    "description": "Boisson appartenant à The Coca-Cola Company, commercialisée en Europe comme une adaptation régionale d'une marque américaine.",
+    "source": "Wikipedia: The Coca-Cola Company",
+    "company": "The Coca-Cola Company",
+    "normalizedName": "mezzo_mix"
+  },
+  {
+    "name": "Apollinaris",
+    "description": "Eau minérale allemande naturellement pétillante, propriété de Coca-Cola.",
+    "source": "Wikipedia: The Coca-Cola Company",
+    "company": "The Coca-Cola Company",
+    "normalizedName": "apollinaris"
+  },
+  {
+    "name": "Schwip Schwap",
+    "description": "Boisson non américaine, d'origine allemande, appartenant au groupe PepsiCo.",
+    "source": "Wikipedia: PepsiCo",
+    "company": "PepsiCo",
+    "normalizedName": "schwip_schwap"
+  },
+  {
+    "name": "Lipton",
+    "description": "Marque de thé appartenant à PepsiCo, un groupe américain.",
+    "source": "Wikipedia: PepsiCo",
+    "company": "PepsiCo",
+    "normalizedName": "lipton"
+  },
+  {
+    "name": "7UP",
+    "description": "Marque américaine de soda, emblématique de l'innovation dans les boissons gazeuses.",
+    "source": "Wikipedia: 7 Up",
+    "company": "PepsiCo",
+    "normalizedName": "7up"
+  },
+  {
+    "name": "Jack Daniel's",
+    "description": "Marque américaine de whiskey, symbole de la tradition distillatoire des États-Unis.",
+    "source": "Wikipedia: Jack Daniel's",
+    "company": "Brown-Forman",
+    "normalizedName": "jack_daniels"
+  },
+  {
+    "name": "Wild Turkey",
+    "description": "Marque américaine de bourbon, réputée pour sa robustesse et son caractère distinctif.",
+    "source": "Wikipedia: Wild Turkey (bourbon)",
+    "company": "Wild Turkey, Inc.",
+    "normalizedName": "wild_turkey"
+  },
+  {
+    "name": "Woodford Reserve",
+    "description": "Bourbon américain premium, symbole de tradition et d'excellence dans la production de whiskey.",
+    "source": "Wikipedia: Woodford Reserve",
+    "company": "Brown-Forman",
+    "normalizedName": "woodford_reserve"
+  },
+  {
+    "name": "JPMorgan Chase",
+    "description": "Géant bancaire américain, leader dans le secteur de la finance mondiale.",
+    "source": "Wikipedia: JPMorgan Chase",
+    "company": "JPMorgan Chase & Co.",
+    "normalizedName": "jpmorgan_chase"
+  },
+  {
+    "name": "BlackRock",
+    "description": "Entreprise américaine de gestion d'actifs, influente sur les marchés financiers mondiaux.",
+    "source": "Wikipedia: BlackRock",
+    "company": "BlackRock, Inc.",
+    "normalizedName": "blackrock"
+  },
+  {
+    "name": "Citibank",
+    "description": "Banque américaine, partie intégrante de Citigroup, symbole de la finance globale.",
+    "source": "Wikipedia: Citibank",
+    "company": "Citigroup",
+    "normalizedName": "citibank"
+  },
+  {
+    "name": "Bloomberg",
+    "description": "Entreprise américaine de médias et données financières, influente dans l'information économique.",
+    "source": "Wikipedia: Bloomberg L.P.",
+    "company": "Bloomberg L.P.",
+    "normalizedName": "bloomberg"
+  },
+  {
+    "name": "Apple Pay",
+    "description": "Service de paiement numérique innovant développé par Apple aux USA.",
+    "source": "Wikipedia: Apple Pay",
+    "company": "Apple Inc.",
+    "normalizedName": "apple_pay"
+  },
+  {
+    "name": "Google Pay",
+    "description": "Solution de paiement numérique américaine, intégrée aux services de Google.",
+    "source": "Wikipedia: Google Pay",
+    "company": "Alphabet Inc.",
+    "normalizedName": "google_pay"
+  },
+  {
+    "name": "Morgan Stanley",
+    "description": "Groupe financier américain, reconnu pour ses services en investissement et gestion d'actifs.",
+    "source": "Wikipedia: Morgan Stanley",
+    "company": "Morgan Stanley",
+    "normalizedName": "morgan_stanley"
+  },
+  {
+    "name": "Booking.com",
+    "description": "Plateforme de réservation en ligne, d'origine néerlandaise mais appartenant à une holding américaine.",
+    "source": "Wikipedia: Booking Holdings",
+    "company": "Booking Holdings",
+    "normalizedName": "booking_com"
+  },
+  {
+    "name": "Hotels.com",
+    "description": "Plateforme américaine de réservation hôtelière, facilitant la comparaison et la réservation de logements.",
+    "source": "Wikipedia: Hotels.com",
+    "company": "Hotels.com, Inc.",
+    "normalizedName": "hotels_com"
+  },
+  {
+    "name": "Expedia",
+    "description": "Agence de voyage en ligne américaine, symbole de l'innovation dans le secteur du tourisme.",
+    "source": "Wikipedia: Expedia Group",
+    "company": "Expedia Group",
+    "normalizedName": "expedia"
+  },
+  {
+    "name": "American Airlines",
+    "description": "Compagnie aérienne américaine, leader dans le secteur du transport aérien aux USA.",
+    "source": "Wikipedia: American Airlines",
+    "company": "American Airlines Group",
+    "normalizedName": "american_airlines"
+  },
+  {
+    "name": "Delta",
+    "description": "Compagnie aérienne américaine, reconnue pour ses services et innovations dans le transport aérien.",
+    "source": "Wikipedia: Delta Air Lines",
+    "company": "Delta Air Lines",
+    "normalizedName": "delta"
+  },
+  {
+    "name": "United",
+    "description": "Compagnie aérienne américaine, une des plus grandes aux USA par sa flotte et son réseau mondial.",
+    "source": "Wikipedia: United Airlines",
+    "company": "United Airlines",
+    "normalizedName": "united"
+  },
+  {
+    "name": "Hilton",
+    "description": "Groupe américain dans l'hôtellerie, symbole d'excellence et d'hospitalité dans le monde entier.",
+    "source": "Wikipedia: Hilton Worldwide",
+    "company": "Hilton Worldwide",
+    "normalizedName": "hilton"
+  },
+  {
+    "name": "Marriott",
+    "description": "Groupe hôtelier américain, reconnu pour ses standards élevés dans le secteur de l'hôtellerie.",
+    "source": "Wikipedia: Marriott International",
+    "company": "Marriott International",
+    "normalizedName": "marriott"
+  },
+  {
+    "name": "Hyatt",
+    "description": "Groupe américain d'hôtels, réputé pour son service d'excellence et son réseau international.",
+    "source": "Wikipedia: Hyatt Hotels Corporation",
+    "company": "Hyatt Hotels Corporation",
+    "normalizedName": "hyatt"
+  },
+  {
+    "name": "Avis",
+    "description": "Agence de location de voitures américaine, emblématique dans le secteur de la mobilité.",
+    "source": "Wikipedia: Avis Budget Group",
+    "company": "Avis Budget Group",
+    "normalizedName": "avis"
+  },
+  {
+    "name": "Jet",
+    "description": "Marque américaine dans la restauration rapide, synonyme de rapidité et d'efficacité.",
+    "source": "Wikipedia: Jet (brand)",
+    "company": "Jet",
+    "normalizedName": "jet"
   }
 ]
