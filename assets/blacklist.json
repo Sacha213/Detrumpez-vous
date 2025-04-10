@@ -1442,6 +1442,13 @@
     "normalizedName": "m&ms"
   },
   {
+    "name": "M&M's",
+    "description": "Confiserie mondialement reconnue, née aux États-Unis et propriété de Mars, symbole de l'innovation américaine en chocolat.",
+    "source": "Wikipedia: Mars, Incorporated",
+    "company": "Mars",
+    "normalizedName": "m&m_s"
+  },
+  {
     "name": "Maltesers",
     "description": "Barre de chocolat légère par Mars, illustrant l'influence américaine dans le secteur des confiseries.",
     "source": "Wikipedia: Mars, Incorporated",
