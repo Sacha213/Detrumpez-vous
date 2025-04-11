@@ -3213,6 +3213,13 @@
     "normalizedName": "monsieur_propre"
   },
   {
+    "name": "Mr. Propre",
+    "description": "Marque de produits de nettoyage américaine, adaptée du nom 'Mr. Clean' de Procter & Gamble.",
+    "source": "Wikipedia: Procter & Gamble",
+    "company": "Procter & Gamble",
+    "normalizedName": "mr_propre"
+  },
+  {
     "name": "New balance",
     "description": "Marque américaine de chaussures, reconnue pour sa qualité et son design fonctionnel.",
     "source": "Wikipedia: New Balance",
