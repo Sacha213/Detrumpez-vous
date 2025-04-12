@@ -22,12 +22,26 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage("उत्पाद जोड़ें"),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "डेटाबेस में एक उत्पाद जोड़कर हमारी मदद करें",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage("उत्पाद जोड़ें"),
+    "alimentation": MessageLookupByLibrary.simpleMessage("खाद्य"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage("पशु आहार"),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "अपने उत्पाद का बारकोड स्कैन करें ताकि पता चल सके कि ब्रांड किसी अमेरिकी कंपनी का है या नहीं।",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("बारकोड स्कैन करें"),
+    "autre": MessageLookupByLibrary.simpleMessage("अन्य"),
+    "barcode": MessageLookupByLibrary.simpleMessage("बारकोड"),
+    "brandName": MessageLookupByLibrary.simpleMessage("ब्रांड का नाम"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "ब्रांड का नाम दर्ज करें",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage("ब्रांड नहीं मिला"),
     "cancel": MessageLookupByLibrary.simpleMessage("रद्द करें"),
+    "category": MessageLookupByLibrary.simpleMessage("श्रेणी"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "अगर कोई ब्रांड अमेरिकी समूह का हिस्सा है, तो उसे अमेरिकी माना जाता है।",
     ),
@@ -40,17 +54,29 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné एक फ्रांसीसी ब्रांड है, लेकिन 2000 में इसे अमेरिकी McCormick समूह ने अधिग्रहित किया था। इसलिए, इस ब्रांड को अमेरिकी माना जाता है।",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("सौंदर्य प्रसाधन"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "यह ब्रांड हमारे अमेरिकी ब्रांड डेटाबेस में मौजूद नहीं है।",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage(
+      "उत्पाद जोड़ने में एक त्रुटि हुई।",
+    ),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("त्रुटि"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "कृपया सभी फ़ील्ड भरें।",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "खाद्य ब्रांड दर्ज करें",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "हमारे डेटाबेस में पहले से ही 300 से अधिक ब्रांड शामिल हैं, लेकिन कुछ अभी भी पहचाने जाने बाकी हैं। यदि आप किसी अप्रदर्शित अमेरिकी उत्पाद को पाते हैं, तो कृपया ब्रांड का नाम लिखकर हमें ईमेल करें ताकि हम अपनी सूची को अपडेट कर सकें।",
+      "हम गलतियाँ कर सकते हैं। यदि आप कोई गलती देखते हैं, तो कृपया ब्रांड का नाम हमें ईमेल करें ताकि हम अपनी सूची अपडेट कर सकें।",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage(
       "क्या उत्पाद में कोई समस्या है?",
+    ),
+    "productName": MessageLookupByLibrary.simpleMessage("उत्पाद का नाम"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "उत्पाद का नाम दर्ज करें",
     ),
     "productNotFound": MessageLookupByLibrary.simpleMessage("उत्पाद नहीं मिला"),
     "safe": MessageLookupByLibrary.simpleMessage("नहीं USA"),
@@ -60,7 +86,12 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ कृपया त्रुटियों से बचने के लिए एक सही ढंग से वर्तनी की गई खाद्य ब्रांड दर्ज करें।",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage("एक श्रेणी चुनें"),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage("स्रोत नहीं मिला"),
+    "successMessage": MessageLookupByLibrary.simpleMessage(
+      "उत्पाद सफलतापूर्वक जोड़ा गया!",
+    ),
+    "successTitle": MessageLookupByLibrary.simpleMessage("सफलता"),
     "unknown": MessageLookupByLibrary.simpleMessage("अज्ञात"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "जो उत्पाद आप खोज रहे हैं, वह हमारे डेटाबेस में नहीं मिला।",

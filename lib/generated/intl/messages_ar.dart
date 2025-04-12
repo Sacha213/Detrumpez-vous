@@ -22,14 +22,30 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage("إضافة المنتج"),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "ساعدنا بإضافة منتج إلى قاعدة البيانات",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage("إضافة منتج"),
+    "alimentation": MessageLookupByLibrary.simpleMessage("طعام"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage(
+      "طعام الحيوانات",
+    ),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "امسح رمز المنتج لاكتشاف ما إذا كانت العلامة التجارية مملوكة لشركة أمريكية.",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("امسح رمز الشريط"),
+    "autre": MessageLookupByLibrary.simpleMessage("أخرى"),
+    "barcode": MessageLookupByLibrary.simpleMessage("الباركود"),
+    "brandName": MessageLookupByLibrary.simpleMessage("اسم العلامة التجارية"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "أدخل اسم العلامة التجارية",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage(
       "العلامة التجارية غير موجودة",
     ),
     "cancel": MessageLookupByLibrary.simpleMessage("إلغاء"),
+    "category": MessageLookupByLibrary.simpleMessage("الفئة"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "يعتبر الماركة أمريكية إذا كانت تنتمي إلى مجموعة أمريكية.",
     ),
@@ -42,17 +58,29 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné علامة تجارية فرنسية، ولكن تم الاستحواذ عليها في عام 2000 من قبل مجموعة McCormick الأمريكية. وبالتالي تُعتبر العلامة أمريكية.",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("مستحضرات التجميل"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "هذه العلامة غير موجودة في قاعدة بيانات علاماتنا التجارية الأمريكية.",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage(
+      "حدث خطأ أثناء إضافة المنتج.",
+    ),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("خطأ"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "يرجى ملء جميع الحقول.",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "أدخل علامة تجارية غذائية",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "قاعدة بياناتنا تحتوي بالفعل على أكثر من 300 علامة تجارية، لكن لا يزال هناك بعض العلامات غير محددة. إذا لاحظت منتجًا أمريكيًا غير مدرج، يرجى إرسال بريد إلكتروني إلينا يحتوي على اسم العلامة التجارية لتحديث قائمتنا.",
+      "قد نخطئ. إذا لاحظت خطأ، يرجى إرسال اسم العلامة التجارية لنا عبر البريد الإلكتروني حتى نتمكن من تحديث قائمتنا.",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage(
       "هل لديك مشكلة مع منتج؟",
+    ),
+    "productName": MessageLookupByLibrary.simpleMessage("اسم المنتج"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "أدخل اسم المنتج",
     ),
     "productNotFound": MessageLookupByLibrary.simpleMessage("المنتج غير موجود"),
     "safe": MessageLookupByLibrary.simpleMessage("غير أمريكي"),
@@ -62,7 +90,12 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ يرجى التأكد من إدخال علامة تجارية للغذاء مكتوبة بشكل صحيح لتجنب الأخطاء.",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage("اختر فئة"),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage("المصدر غير موجود"),
+    "successMessage": MessageLookupByLibrary.simpleMessage(
+      "تمت إضافة المنتج بنجاح!",
+    ),
+    "successTitle": MessageLookupByLibrary.simpleMessage("نجاح"),
     "unknown": MessageLookupByLibrary.simpleMessage("غير معروف"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "المنتج الذي تبحث عنه غير موجود في قاعدة بياناتنا.",

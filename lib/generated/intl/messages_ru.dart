@@ -22,12 +22,30 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage(
+      "Добавить продукт",
+    ),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "Помогите нам, добавив продукт в базу данных",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage("Добавить продукт"),
+    "alimentation": MessageLookupByLibrary.simpleMessage("Еда"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage(
+      "Корм для животных",
+    ),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "Сканируйте штрихкод вашего продукта, чтобы узнать, принадлежит ли бренд американской компании.",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("Сканировать штрихкод"),
+    "autre": MessageLookupByLibrary.simpleMessage("Другое"),
+    "barcode": MessageLookupByLibrary.simpleMessage("Штрих-код"),
+    "brandName": MessageLookupByLibrary.simpleMessage("Название бренда"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Введите название бренда",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage("Бренд не найден"),
     "cancel": MessageLookupByLibrary.simpleMessage("Отмена"),
+    "category": MessageLookupByLibrary.simpleMessage("Категория"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "Бренд считается американским, если он принадлежит американской группе.",
     ),
@@ -40,17 +58,29 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné — французский бренд, но в 2000 году его приобрела американская компания McCormick. Поэтому бренд считается американским.",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("Косметика"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "Этот бренд отсутствует в нашей базе данных американских брендов.",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage(
+      "Произошла ошибка при добавлении продукта.",
+    ),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("Ошибка"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "Пожалуйста, заполните все поля.",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "Введите пищевой бренд",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "Наша база данных уже содержит более 300 брендов, но некоторые ещё предстоит идентифицировать. Если вы обнаружите американский продукт, которого нет в списке, отправьте нам письмо с названием бренда, чтобы мы могли обновить наш список.",
+      "Мы можем ошибаться. Если вы заметите ошибку, пожалуйста, отправьте нам по электронной почте название бренда, чтобы мы могли обновить наш список.",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage(
       "Проблема с продуктом?",
+    ),
+    "productName": MessageLookupByLibrary.simpleMessage("Название продукта"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Введите название продукта",
     ),
     "productNotFound": MessageLookupByLibrary.simpleMessage(
       "Продукт не найден",
@@ -62,9 +92,16 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ Пожалуйста, убедитесь, что вы вводите правильно написанный продовольственный бренд, чтобы избежать ошибок.",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage(
+      "Выберите категорию",
+    ),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage(
       "Источник не найден",
     ),
+    "successMessage": MessageLookupByLibrary.simpleMessage(
+      "Продукт успешно добавлен!",
+    ),
+    "successTitle": MessageLookupByLibrary.simpleMessage("Успех"),
     "unknown": MessageLookupByLibrary.simpleMessage("НЕИЗВЕСТНО"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "Продукт, который вы искали, не найден в нашей базе данных.",

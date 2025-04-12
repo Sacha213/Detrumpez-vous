@@ -185,10 +185,10 @@ class S {
     );
   }
 
-  /// `Our database already contains over 300 brands, but some still remain to be identified. If you spot an American product not listed, please email us the brand name to update our list.`
+  /// `We can make mistakes. If you spot one, please email us the brand name so we can update our list.`
   String get problemReportMessage {
     return Intl.message(
-      'Our database already contains over 300 brands, but some still remain to be identified. If you spot an American product not listed, please email us the brand name to update our list.',
+      'We can make mistakes. If you spot one, please email us the brand name so we can update our list.',
       name: 'problemReportMessage',
       desc: '',
       args: [],
@@ -260,6 +260,156 @@ class S {
     return Intl.message(
       '⚠️ Please ensure you enter a correctly spelled food brand to avoid errors.',
       name: 'searchWarning',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Add Product`
+  String get addProductTitle {
+    return Intl.message(
+      'Add Product',
+      name: 'addProductTitle',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Help us by adding a product to the database`
+  String get addProductHelp {
+    return Intl.message(
+      'Help us by adding a product to the database',
+      name: 'addProductHelp',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Category`
+  String get category {
+    return Intl.message('Category', name: 'category', desc: '', args: []);
+  }
+
+  /// `Select a category`
+  String get selectCategory {
+    return Intl.message(
+      'Select a category',
+      name: 'selectCategory',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Success`
+  String get successTitle {
+    return Intl.message('Success', name: 'successTitle', desc: '', args: []);
+  }
+
+  /// `Product added successfully!`
+  String get successMessage {
+    return Intl.message(
+      'Product added successfully!',
+      name: 'successMessage',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Error`
+  String get errorTitle {
+    return Intl.message('Error', name: 'errorTitle', desc: '', args: []);
+  }
+
+  /// `An error occurred while adding the product.`
+  String get errorMessage {
+    return Intl.message(
+      'An error occurred while adding the product.',
+      name: 'errorMessage',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Please fill in all the fields.`
+  String get fillAllFields {
+    return Intl.message(
+      'Please fill in all the fields.',
+      name: 'fillAllFields',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Bar Code`
+  String get barcode {
+    return Intl.message('Bar Code', name: 'barcode', desc: '', args: []);
+  }
+
+  /// `Product Name`
+  String get productName {
+    return Intl.message(
+      'Product Name',
+      name: 'productName',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Enter product name`
+  String get productNamePlaceholder {
+    return Intl.message(
+      'Enter product name',
+      name: 'productNamePlaceholder',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Brand Name`
+  String get brandName {
+    return Intl.message('Brand Name', name: 'brandName', desc: '', args: []);
+  }
+
+  /// `Enter brand name`
+  String get brandNamePlaceholder {
+    return Intl.message(
+      'Enter brand name',
+      name: 'brandNamePlaceholder',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Food`
+  String get alimentation {
+    return Intl.message('Food', name: 'alimentation', desc: '', args: []);
+  }
+
+  /// `Cosmetics`
+  String get cosmetique {
+    return Intl.message('Cosmetics', name: 'cosmetique', desc: '', args: []);
+  }
+
+  /// `Pet Food`
+  String get alimentationAnimaux {
+    return Intl.message(
+      'Pet Food',
+      name: 'alimentationAnimaux',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Other`
+  String get autre {
+    return Intl.message('Other', name: 'autre', desc: '', args: []);
+  }
+
+  /// `Add the product`
+  String get addProductButton {
+    return Intl.message(
+      'Add the product',
+      name: 'addProductButton',
       desc: '',
       args: [],
     );

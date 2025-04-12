@@ -22,12 +22,26 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage("製品を追加"),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "データベースに製品を追加して私たちを助けてください",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage("製品を追加"),
+    "alimentation": MessageLookupByLibrary.simpleMessage("食品"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage("ペットフード"),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "製品のバーコードをスキャンして、そのブランドがアメリカの企業によって所有されているかどうかを確認してください。",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("バーコードをスキャンする"),
+    "autre": MessageLookupByLibrary.simpleMessage("その他"),
+    "barcode": MessageLookupByLibrary.simpleMessage("バーコード"),
+    "brandName": MessageLookupByLibrary.simpleMessage("ブランド名"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "ブランド名を入力してください",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage("ブランドが見つかりませんでした"),
     "cancel": MessageLookupByLibrary.simpleMessage("キャンセル"),
+    "category": MessageLookupByLibrary.simpleMessage("カテゴリー"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "ブランドがアメリカのグループに属していれば、アメリカンブランドと見なされます。",
     ),
@@ -38,16 +52,26 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné はフランスのブランドですが、2000年にアメリカの McCormick グループに買収されました。したがって、このブランドはアメリカと見なされます。",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("化粧品"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "このブランドは私たちのアメリカブランドデータベースにありません。",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage("製品の追加中にエラーが発生しました。"),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("エラー"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "すべてのフィールドに入力してください。",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "食品ブランドを入力してください",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "当社のデータベースには既に300以上のブランドが登録されていますが、まだ識別されていないものもあります。もしリストにないアメリカ製品を見つけた場合は、ブランド名を記載したメールをお送りください。",
+      "間違いを犯す可能性があります。もし誤りを見つけた場合は、ブランド名をメールでお知らせいただき、リストを更新できるようにしてください。",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage("製品に問題がありますか？"),
+    "productName": MessageLookupByLibrary.simpleMessage("商品名"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "商品名を入力してください",
+    ),
     "productNotFound": MessageLookupByLibrary.simpleMessage("製品が見つかりませんでした"),
     "safe": MessageLookupByLibrary.simpleMessage("アメリカ以外"),
     "safeProductMessage": MessageLookupByLibrary.simpleMessage(
@@ -56,7 +80,10 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ エラーを避けるために、食品ブランドを正しく綴って入力してください。",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage("カテゴリーを選択"),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage("情報源が見つかりません"),
+    "successMessage": MessageLookupByLibrary.simpleMessage("製品が正常に追加されました！"),
+    "successTitle": MessageLookupByLibrary.simpleMessage("成功"),
     "unknown": MessageLookupByLibrary.simpleMessage("不明"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "ご指定の商品はデータベースに見つかりませんでした。",

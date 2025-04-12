@@ -22,14 +22,32 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage(
+      "Produkt hinzufügen",
+    ),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "Helfen Sie uns, indem Sie ein Produkt zur Datenbank hinzufügen",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage(
+      "Produkt hinzufügen",
+    ),
+    "alimentation": MessageLookupByLibrary.simpleMessage("Lebensmittel"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage("Tiernahrung"),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "Scannen Sie den Barcode Ihres Produkts, um herauszufinden, ob die Marke einem amerikanischen Unternehmen gehört.",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("Barcode scannen"),
+    "autre": MessageLookupByLibrary.simpleMessage("Andere"),
+    "barcode": MessageLookupByLibrary.simpleMessage("Strichcode"),
+    "brandName": MessageLookupByLibrary.simpleMessage("Markenname"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Geben Sie den Markennamen ein",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage(
       "Marke nicht gefunden",
     ),
     "cancel": MessageLookupByLibrary.simpleMessage("Abbrechen"),
+    "category": MessageLookupByLibrary.simpleMessage("Kategorie"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "Eine Marke gilt als amerikanisch, wenn sie zu einem amerikanischen Konzern gehört.",
     ),
@@ -42,17 +60,29 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné ist eine französische Marke, wurde jedoch 2000 von der amerikanischen Firma McCormick übernommen. Daher gilt die Marke als amerikanisch.",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("Kosmetik"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "Diese Marke ist nicht in unserer US-basierten Markendatenbank vorhanden.",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage(
+      "Beim Hinzufügen des Produkts ist ein Fehler aufgetreten.",
+    ),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("Fehler"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "Bitte füllen Sie alle Felder aus.",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "Geben Sie eine Lebensmittelmarke ein",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "Unsere Datenbank enthält bereits über 300 Marken, aber einige müssen noch identifiziert werden. Wenn Sie ein amerikanisches Produkt entdecken, das nicht aufgeführt ist, senden Sie uns bitte eine E-Mail mit dem Markennamen, damit wir unsere Liste aktualisieren können.",
+      "Wir können Fehler machen. Wenn Sie einen feststellen, senden Sie uns bitte den Markennamen per E-Mail, damit wir unsere Liste aktualisieren können.",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage(
       "Problem mit einem Produkt?",
+    ),
+    "productName": MessageLookupByLibrary.simpleMessage("Produktname"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Geben Sie den Produktnamen ein",
     ),
     "productNotFound": MessageLookupByLibrary.simpleMessage(
       "Produkt nicht gefunden",
@@ -64,9 +94,16 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ Bitte geben Sie eine korrekt geschriebene Lebensmittelmarke ein, um Fehler zu vermeiden.",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage(
+      "Wählen Sie eine Kategorie aus",
+    ),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage(
       "Quelle nicht gefunden",
     ),
+    "successMessage": MessageLookupByLibrary.simpleMessage(
+      "Produkt erfolgreich hinzugefügt!",
+    ),
+    "successTitle": MessageLookupByLibrary.simpleMessage("Erfolg"),
     "unknown": MessageLookupByLibrary.simpleMessage("UNBEKANNT"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "Das gesuchte Produkt wurde in unserer Datenbank nicht gefunden.",

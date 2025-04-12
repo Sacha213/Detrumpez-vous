@@ -22,12 +22,26 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+    "addProductButton": MessageLookupByLibrary.simpleMessage("Add the product"),
+    "addProductHelp": MessageLookupByLibrary.simpleMessage(
+      "Help us by adding a product to the database",
+    ),
+    "addProductTitle": MessageLookupByLibrary.simpleMessage("Add Product"),
+    "alimentation": MessageLookupByLibrary.simpleMessage("Food"),
+    "alimentationAnimaux": MessageLookupByLibrary.simpleMessage("Pet Food"),
     "appDescription": MessageLookupByLibrary.simpleMessage(
       "Scan your product\'s barcode to discover if the brand is owned by an American company.",
     ),
     "appTitle": MessageLookupByLibrary.simpleMessage("Scan the barcode"),
+    "autre": MessageLookupByLibrary.simpleMessage("Other"),
+    "barcode": MessageLookupByLibrary.simpleMessage("Bar Code"),
+    "brandName": MessageLookupByLibrary.simpleMessage("Brand Name"),
+    "brandNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Enter brand name",
+    ),
     "brandNotFound": MessageLookupByLibrary.simpleMessage("Brand not found"),
     "cancel": MessageLookupByLibrary.simpleMessage("Cancel"),
+    "category": MessageLookupByLibrary.simpleMessage("Category"),
     "companyCriteriaContent": MessageLookupByLibrary.simpleMessage(
       "A brand is considered American if it belongs to an American group.",
     ),
@@ -40,17 +54,29 @@ class MessageLookup extends MessageLookupByLibrary {
     "companyUsaExplanation": MessageLookupByLibrary.simpleMessage(
       "Vahiné is a French brand but was acquired by the American group McCormick in 2000. Therefore, the brand is considered American.",
     ),
+    "cosmetique": MessageLookupByLibrary.simpleMessage("Cosmetics"),
     "descriptionNotFound": MessageLookupByLibrary.simpleMessage(
       "This brand is not in our American brand database.",
+    ),
+    "errorMessage": MessageLookupByLibrary.simpleMessage(
+      "An error occurred while adding the product.",
+    ),
+    "errorTitle": MessageLookupByLibrary.simpleMessage("Error"),
+    "fillAllFields": MessageLookupByLibrary.simpleMessage(
+      "Please fill in all the fields.",
     ),
     "manualSearchPlaceholder": MessageLookupByLibrary.simpleMessage(
       "Enter a grocery brand",
     ),
     "problemReportMessage": MessageLookupByLibrary.simpleMessage(
-      "Our database already contains over 300 brands, but some still remain to be identified. If you spot an American product not listed, please email us the brand name to update our list.",
+      "We can make mistakes. If you spot one, please email us the brand name so we can update our list.",
     ),
     "problemReportTitle": MessageLookupByLibrary.simpleMessage(
       "Problem with a product?",
+    ),
+    "productName": MessageLookupByLibrary.simpleMessage("Product Name"),
+    "productNamePlaceholder": MessageLookupByLibrary.simpleMessage(
+      "Enter product name",
     ),
     "productNotFound": MessageLookupByLibrary.simpleMessage(
       "Product not found",
@@ -62,7 +88,12 @@ class MessageLookup extends MessageLookupByLibrary {
     "searchWarning": MessageLookupByLibrary.simpleMessage(
       "⚠️ Please ensure you enter a correctly spelled food brand to avoid errors.",
     ),
+    "selectCategory": MessageLookupByLibrary.simpleMessage("Select a category"),
     "sourceNotFound": MessageLookupByLibrary.simpleMessage("Source not found"),
+    "successMessage": MessageLookupByLibrary.simpleMessage(
+      "Product added successfully!",
+    ),
+    "successTitle": MessageLookupByLibrary.simpleMessage("Success"),
     "unknown": MessageLookupByLibrary.simpleMessage("UNKNOWN"),
     "unknownProductMessage": MessageLookupByLibrary.simpleMessage(
       "The product you searched for was not found in our database.",
