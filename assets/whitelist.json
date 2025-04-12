@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ben & Jerry's",
+        "description": "Bien que Ben & Jerry's soit originaire des États-Unis, cette marque appartient désormais à Unilever, un groupe anglo-néerlandais, et ne fait donc plus partie d'un groupe américain.",
+        "source": "Wikipedia: Ben & Jerry's",
+        "company": "Unilever",
+        "normalizedName": "ben_and_jerrys",
+        "origin": "Non-USA"
+    },
+    {
+        "name": "Monoprix",
+        "description": "Monoprix est une enseigne française de grande distribution. Elle n'appartient pas à un groupe américain, ce qui la distingue des marques américaines.",
+        "source": "Wikipedia: Monoprix",
+        "company": "Monoprix",
+        "normalizedName": "monoprix",
+        "origin": "France"
+    },
+    {
+        "name": "Carrefour",
+        "description": "Carrefour est un groupe de distribution français multinationale, largement implanté en Europe et ailleurs, et n'est pas affilié à un groupe américain.",
+        "source": "Wikipedia: Carrefour",
+        "company": "Carrefour",
+        "normalizedName": "carrefour",
+        "origin": "France"
+    }
+]
