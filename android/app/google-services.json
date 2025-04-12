@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423968387240",
+    "project_id": "detrumpez-vous-site",
+    "storage_bucket": "detrumpez-vous-site.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423968387240:android:08c3ad0a83f3f9ddda129d",
+        "android_client_info": {
+          "package_name": "com.detrumpezvous.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsl5XWoKryPHRR9OCq6mZmcYP8KljhzaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
